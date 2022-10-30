@@ -1,0 +1,67 @@
+{
+    "Draw": 0,
+    "Elo": 1,
+    "History Game": {
+        "Game 1": {
+            "Board": {
+                "X": 17,
+                "Y": 14
+            },
+            "Date": "Oct 30 2022",
+            "List Move": [
+                7,
+                3,
+                11,
+                3,
+                7,
+                4,
+                11,
+                4,
+                8,
+                5,
+                11,
+                5,
+                8,
+                4,
+                11,
+                6
+            ],
+            "Number of Move": 8,
+            "Player1": "dat",
+            "Player2": "huy",
+            "Winner": "huy"
+        },
+        "Game 2": {
+            "Board": {
+                "X": 17,
+                "Y": 14
+            },
+            "Date": "Oct 30 2022",
+            "List Move": [
+                6,
+                4,
+                11,
+                3,
+                6,
+                5,
+                11,
+                4,
+                6,
+                6,
+                11,
+                5,
+                6,
+                7
+            ],
+            "Number of Move": 7,
+            "Player1": "dat",
+            "Player2": "huy",
+            "Winner": "dat"
+        },
+        "Number of History Game": 2
+    },
+    "Lose": 1,
+    "Name Player": "dat",
+    "Password": "dat",
+    "Win": 1
+}
